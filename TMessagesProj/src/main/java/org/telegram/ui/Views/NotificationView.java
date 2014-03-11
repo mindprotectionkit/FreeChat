@@ -27,7 +27,7 @@ import org.telegram.TL.TLRPC;
 import org.telegram.messenger.FileLog;
 import org.telegram.messenger.MessagesController;
 import org.telegram.messenger.NotificationCenter;
-import org.telegram.messenger.R;
+import com.mindprotectionkit.freechat.R;
 import org.telegram.messenger.Utilities;
 import org.telegram.objects.MessageObject;
 import org.telegram.ui.ApplicationLoader;

@@ -32,6 +32,7 @@ import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.concurrent.ConcurrentHashMap;
+import com.mindprotectionkit.freechat.R;
 
 public class FileLoader {
     public static FileLoader Instance = new FileLoader();

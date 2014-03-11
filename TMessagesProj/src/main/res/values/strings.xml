@@ -3,7 +3,7 @@
 <!-- -->
 
 <resources>
-    <string name="AppName">Telegram</string>
+    <string name="AppName">Free Chat</string>
 
     <!--signin view-->
     <string name="YourPhone">Your phone</string>
@@ -73,7 +73,7 @@
     <string name="IsTyping">is typing...</string>
     <string name="AreTyping">are typing...</string>
     <string name="AndMoreTyping">and %d more people</string>
-    <string name="GotAQuestion">Got a question\nabout Telegram?</string>
+    <string name="GotAQuestion">Got a question\nabout Free Chat?</string>
     <string name="ChatTakePhoto">Take photo</string>
     <string name="ChatGallery">Gallery</string>
     <string name="ChatLocation">Location</string>
@@ -143,14 +143,14 @@
     <string name="NotificationGroupKickMember">%1$s kicked %3$s from the group %2$s</string>
     <string name="NotificationGroupKickYou">%1$s kicked you from the group %2$s</string>
     <string name="NotificationGroupLeftMember">%1$s has left the group %2$s</string>
-    <string name="NotificationContactJoined">%1$s joined Telegram!</string>
-    <string name="NotificationUnrecognizedDevice">%1$s,\nWe detected a login into your account from a new device on %2$s\n\nDevice: %3$s\nLocation: %4$s\n\nIf this wasn’t you, you can go to Settings – Terminate all sessions.\n\nThanks,\nThe Telegram Team</string>
+    <string name="NotificationContactJoined">%1$s joined Free Chat!</string>
+    <string name="NotificationUnrecognizedDevice">%1$s,\nWe detected a login into your account from a new device on %2$s\n\nDevice: %3$s\nLocation: %4$s\n\nIf this wasn’t you, you can go to Settings – Terminate all sessions.\n\nThanks,\nThe Free Chat Team</string>
     <string name="NotificationContactNewPhoto">%1$s updated profile photo</string>
 
     <!--contacts view-->
     <string name="SelectContact">Select Contact</string>
     <string name="NoContacts">No contacts yet</string>
-    <string name="InviteText">Hey, let\'s switch to Telegram: http://telegram.org/dl2</string>
+    <string name="InviteText">Hey, let\'s switch to Free Chat: http://telegram.org/dl2</string>
     <string name="TodayAt">today at</string>
     <string name="YesterdayAt">yesterday at</string>
     <string name="OtherAt">at</string>
@@ -194,7 +194,7 @@
     <string name="PHONE">PHONE</string>
     <string name="StartEncryptedChat">Start Secret Chat</string>
     <string name="CreateEncryptedChatError">An error occurred.</string>
-    <string name="CreateEncryptedChatOutdatedError">Cannot create a secret chat with %1$s.\n\n%2$s is using an older version of Telegram and needs to update first.</string>
+    <string name="CreateEncryptedChatOutdatedError">Cannot create a secret chat with %1$s.\n\n%2$s is using an older version of Free Chat and needs to update first.</string>
     <string name="SecretTitle">Secret Chat</string>
     <string name="EncryptionKey">Encryption Key</string>
     <string name="MessageLifetime">Self-Destruct Timer</string>
@@ -245,7 +245,7 @@
     <string name="AutomaticPhotoDownloadGroups">Groups</string>
     <string name="AutomaticPhotoDownloadPrivateChats">Private Chats</string>
     <string name="Events">EVENTS</string>
-    <string name="ContactJoined">Contact joined Telegram</string>
+    <string name="ContactJoined">Contact joined Free Chat</string>
 
     <!--media view-->
     <string name="NoMedia">No shared media yet</string>
@@ -305,7 +305,7 @@
     <string name="ActionYouCreateGroup">You created the group</string>
     <string name="ActionKickUserYou">un1 kicked you</string>
     <string name="ActionAddUserYou">un1 added you</string>
-    <string name="UnsuppotedMedia">This message is not supported on your version of Telegram.</string>
+    <string name="UnsuppotedMedia">This message is not supported on your version of Free Chat.</string>
     <string name="AttachPhoto">Photo</string>
     <string name="AttachVideo">Video</string>
     <string name="AttachLocation">Location</string>
@@ -324,7 +324,7 @@
     <string name="Loading">Loading...</string>
     <string name="NoPlayerInstalled">You don\'t have a video player, please install one to continue</string>
     <string name="NoHandleAppInstalled">You don\'t have any application that can handle with mime type \'%1$s\', please install one to continue</string>
-    <string name="InviteUser">This user does not have Telegram yet, send an invitation?</string>
+    <string name="InviteUser">This user does not have Free Chat yet, send an invitation?</string>
     <string name="AreYouSure">Are you sure?</string>
     <string name="AddContactQ">Add contact?</string>
     <string name="AddToTheGroup">Add %1$s to the group?</string>
@@ -332,7 +332,7 @@
     <string name="DeleteChatQuestion">Delete this chat?</string>
 
     <!--Intro view-->
-    <string name="Page1Title">Telegram</string>
+    <string name="Page1Title">Free Chat</string>
     <string name="Page2Title">Fast</string>
     <string name="Page3Title">Free</string>
     <string name="Page4Title">Secure</string>
@@ -340,12 +340,12 @@
     <string name="Page6Title">Cloud-Based</string>
     <string name="Page7Title">Private</string>
     <string name="Page1Message">Welcome to the era of fast and secure messaging</string>
-    <string name="Page2Message"><![CDATA[<b>Telegram</b>]]> delivers messages faster than<![CDATA[<br/>]]>any other application</string>
-    <string name="Page3Message"><![CDATA[<b>Telegram</b>]]> is free forever. No ads.<![CDATA[<br/>]]>No subscription fees</string>
-    <string name="Page4Message"><![CDATA[<b>Telegram</b>]]> keeps your messages safe<![CDATA[<br/>]]>from hacker attacks</string>
-    <string name="Page5Message"><![CDATA[<b>Telegram</b>]]> has no limits on the size of<![CDATA[<br/>]]>your media and chats</string>
-    <string name="Page6Message"><![CDATA[<b>Telegram</b>]]> lets you access your messages<![CDATA[<br/>]]>from multiple devices</string>
-    <string name="Page7Message"><![CDATA[<b>Telegram</b>]]> messages are heavily encrypted<![CDATA[<br/>]]>and can self-destruct</string>
+    <string name="Page2Message"><![CDATA[<b>Free Chat</b>]]> delivers messages faster than<![CDATA[<br/>]]>any other application</string>
+    <string name="Page3Message"><![CDATA[<b>Free Chat</b>]]> is free forever. No ads.<![CDATA[<br/>]]>No subscription fees</string>
+    <string name="Page4Message"><![CDATA[<b>Free Chat</b>]]> keeps your messages safe<![CDATA[<br/>]]>from hacker attacks</string>
+    <string name="Page5Message"><![CDATA[<b>Free Chat</b>]]> has no limits on the size of<![CDATA[<br/>]]>your media and chats</string>
+    <string name="Page6Message"><![CDATA[<b>Free Chat</b>]]> lets you access your messages<![CDATA[<br/>]]>from multiple devices</string>
+    <string name="Page7Message"><![CDATA[<b>Free Chat</b>]]> messages are heavily encrypted<![CDATA[<br/>]]>and can self-destruct</string>
     <string name="StartMessaging">Start Messaging</string>
 
     <!--Don't change this! Not for localization!-->

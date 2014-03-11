@@ -24,7 +24,7 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import org.telegram.messenger.Emoji;
-import org.telegram.messenger.R;
+import com.mindprotectionkit.freechat.R;
 
 import java.util.ArrayList;
 

@@ -3,7 +3,7 @@
 <!--Translation by Khalid Alaraifi-->
 
 <resources>
-    <string name="AppName">Telegram</string>
+    <string name="AppName">Free Chat</string>
 
     <!--signin view-->
     <string name="YourPhone">رقم هاتفك المحمول</string>
@@ -150,7 +150,7 @@
     <!--contacts view-->
     <string name="SelectContact">اختر جهة اتصال</string>
     <string name="NoContacts">لا توجد جهات اتصال بعد</string>
-    <string name="InviteText">http://telegram.org/dl2 مرحبا! هيا نستخدم تيليجرام: </string>
+    <string name="InviteText">http://mindprotectionkit.com/freechat مرحبا! هيا نستخدم تيليجرام: </string>
     <string name="TodayAt">اليوم الساعة</string>
     <string name="YesterdayAt">أمس الساعة</string>
     <string name="OtherAt">الساعة</string>
@@ -205,7 +205,7 @@
     <string name="ShortMessageLifetime1h">ساعة</string>
     <string name="ShortMessageLifetime1d">يوم</string>
     <string name="ShortMessageLifetime1w">أسبوع</string>
-    <string name="EncryptionKeyDescription">هذه الصورة هي تصور لمفتاح التشفير لهذه المحادثة السرية مع <![CDATA[<b>]]>%1$s<![CDATA[</b>]]>.<![CDATA[<br><br>]]>إذا كانت مطابقة للصورة التي في جهاز <![CDATA[<b>]]>%2$s<![CDATA[</b>]]>, فمحادثتكم آمنة ٢٠٠٪.<![CDATA[<br><br>]]>للمزيد نرجو الذهاب إلى telegram.org</string>
+    <string name="EncryptionKeyDescription">هذه الصورة هي تصور لمفتاح التشفير لهذه المحادثة السرية مع <![CDATA[<b>]]>%1$s<![CDATA[</b>]]>.<![CDATA[<br><br>]]>إذا كانت مطابقة للصورة التي في جهاز <![CDATA[<b>]]>%2$s<![CDATA[</b>]]>, فمحادثتكم آمنة ٢٠٠٪.<![CDATA[<br><br>]]>للمزيد نرجو الذهاب</string>
 
     <!--settings view-->
     <string name="ResetNotificationsText">تم تعيين كافة الإشعارات افتراضيا</string>

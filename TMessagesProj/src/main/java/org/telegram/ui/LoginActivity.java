@@ -25,7 +25,7 @@ import android.view.animation.AccelerateDecelerateInterpolator;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import org.telegram.messenger.R;
+import com.mindprotectionkit.freechat.R;
 import org.telegram.messenger.Utilities;
 import org.telegram.ui.Views.SlideView;
 

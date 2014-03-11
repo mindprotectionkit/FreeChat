@@ -40,7 +40,7 @@ import org.telegram.objects.MessageObject;
 import org.telegram.messenger.FileLoader;
 import org.telegram.messenger.MessagesController;
 import org.telegram.messenger.NotificationCenter;
-import org.telegram.messenger.R;
+import com.mindprotectionkit.freechat.R;
 import org.telegram.messenger.UserConfig;
 import org.telegram.messenger.Utilities;
 

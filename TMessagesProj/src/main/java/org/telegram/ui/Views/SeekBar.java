@@ -16,7 +16,7 @@ import android.util.AttributeSet;
 import android.view.MotionEvent;
 import android.view.View;
 
-import org.telegram.messenger.R;
+import com.mindprotectionkit.freechat.R;
 import org.telegram.messenger.Utilities;
 
 public class SeekBar extends View {

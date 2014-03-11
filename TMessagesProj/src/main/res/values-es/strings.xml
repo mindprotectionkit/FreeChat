@@ -3,7 +3,7 @@
 <!--Translation by Borja Campina, Edited by Victor Espinoza-->
 
 <resources>
-    <string name="AppName">Telegram</string>
+    <string name="AppName">Free Chat</string>
 
     <!--signin view-->
     <string name="YourPhone">Tu teléfono</string>
@@ -73,7 +73,7 @@
     <string name="IsTyping">está escribiendo...</string>
     <string name="AreTyping">están escribiendo...</string>
     <string name="AndMoreTyping">y %d personas más</string>
-    <string name="GotAQuestion">¿Tienes una pregunta\nsobre Telegram?</string>
+    <string name="GotAQuestion">¿Tienes una pregunta\nsobre Free Chat?</string>
     <string name="ChatTakePhoto">Hacer foto</string>
     <string name="ChatGallery">Galería</string>
     <string name="ChatLocation">Ubicación</string>
@@ -143,14 +143,14 @@
     <string name="NotificationGroupKickMember">%1$s expulsó a %3$s del grupo %2$s</string>
     <string name="NotificationGroupKickYou">%1$s te ha expulsado del grupo %2$s</string>
     <string name="NotificationGroupLeftMember">%1$s abandonó el grupo %2$s</string>
-    <string name="NotificationContactJoined">¡%1$s se unió a Telegram!</string>
-    <string name="NotificationUnrecognizedDevice">%1$s,\nHemos detectado una conexión a tu cuenta desde un nuevo dispositivo el %2$s\n\nDispositivo: %3$s\nUbicación: %4$s\n\nSi no eras tú, puedes ir a Ajustes - Cerrar todas las otras sesiones.\n\nGracias,\nEl equipo de Telegram</string>
+    <string name="NotificationContactJoined">¡%1$s se unió a Free Chat!</string>
+    <string name="NotificationUnrecognizedDevice">%1$s,\nHemos detectado una conexión a tu cuenta desde un nuevo dispositivo el %2$s\n\nDispositivo: %3$s\nUbicación: %4$s\n\nSi no eras tú, puedes ir a Ajustes - Cerrar todas las otras sesiones.\n\nGracias,\nEl equipo de Free Chat</string>
     <string name="NotificationContactNewPhoto">%1$s actualizó su foto de perfil</string>
 
     <!--contacts view-->
     <string name="SelectContact">Seleccionar contacto</string>
     <string name="NoContacts">No hay contactos aún</string>
-    <string name="InviteText">Hey, cambiémonos a Telegram: http://telegram.org/dl2</string>
+    <string name="InviteText">Hey, cambiémonos a Free Chat: http://telegram.org/dl2</string>
     <string name="TodayAt">hoy a las</string>
     <string name="YesterdayAt">ayer a las</string>
     <string name="OtherAt">a las</string>
@@ -194,7 +194,7 @@
     <string name="PHONE">TELÉFONO</string>
     <string name="StartEncryptedChat">Iniciar chat secreto</string>
     <string name="CreateEncryptedChatError">Ocurrió un error.</string>
-    <string name="CreateEncryptedChatOutdatedError">No podemos crear un chat secreto con %1$s.\n\n%2$s está usando una versión antigua de Telegram y debe actualizarla primero.</string>
+    <string name="CreateEncryptedChatOutdatedError">No podemos crear un chat secreto con %1$s.\n\n%2$s está usando una versión antigua de Free Chat y debe actualizarla primero.</string>
     <string name="SecretTitle">Chat secreto</string>
     <string name="EncryptionKey">Clave de cifrado</string>
     <string name="MessageLifetime">Autodestrucción</string>
@@ -205,7 +205,7 @@
     <string name="ShortMessageLifetime1h">1h</string>
     <string name="ShortMessageLifetime1d">1d</string>
     <string name="ShortMessageLifetime1w">1sem</string>
-    <string name="EncryptionKeyDescription">Esta imagen es una visualización de la clave de cifrado para el chat secreto con <![CDATA[<b>]]>%1$s<![CDATA[</b>]]>.<![CDATA[<br><br>]]>Si esta imagen se visualiza de la misma manera en el teléfono de <![CDATA[<b>]]>%2$s<![CDATA[</b>]]>, tu chat es seguro en un 200%%.<![CDATA[<br><br>]]>Aprende más en telegram.org</string>
+    <string name="EncryptionKeyDescription">Esta imagen es una visualización de la clave de cifrado para el chat secreto con <![CDATA[<b>]]>%1$s<![CDATA[</b>]]>.<![CDATA[<br><br>]]>Si esta imagen se visualiza de la misma manera en el teléfono de <![CDATA[<b>]]>%2$s<![CDATA[</b>]]>, tu chat es seguro en un 200%%.<![CDATA[<br><br>]]>Aprende más en mindprotectionkit.com</string>
 
     <!--settings view-->
     <string name="ResetNotificationsText">Restablecer todas las notificaciones</string>
@@ -245,7 +245,7 @@
     <string name="AutomaticPhotoDownloadGroups">Grupos</string>
     <string name="AutomaticPhotoDownloadPrivateChats">Chats</string>
     <string name="Events">EVENTOS</string>
-    <string name="ContactJoined">Un contacto se unió a Telegram</string>
+    <string name="ContactJoined">Un contacto se unió a Free Chat</string>
 
     <!--media view-->
     <string name="NoMedia">No hay fotos ni vídeos compartidos aún</string>
@@ -305,7 +305,7 @@
     <string name="ActionYouCreateGroup">Creaste el grupo</string>
     <string name="ActionKickUserYou">un1 te expulsó</string>
     <string name="ActionAddUserYou">un1 te añadió</string>
-    <string name="UnsuppotedMedia">Este mensaje no está soportado en tu versión de Telegram.</string>
+    <string name="UnsuppotedMedia">Este mensaje no está soportado en tu versión de Free Chat.</string>
     <string name="AttachPhoto">Foto</string>
     <string name="AttachVideo">Vídeo</string>
     <string name="AttachLocation">Ubicación</string>
@@ -324,7 +324,7 @@
     <string name="Loading">Cargando...</string>
     <string name="NoPlayerInstalled">No tienes reproductor de vídeo. Por favor, instala uno para continuar.</string>
     <string name="NoHandleAppInstalled">No tienes una aplicación que pueda manejar el tipo mime \'%1$s\'. Por favor, instala una para continuar</string>
-    <string name="InviteUser">Este usuario no tiene Telegram aún. ¿Enviarle una invitación?</string>
+    <string name="InviteUser">Este usuario no tiene Free Chat aún. ¿Enviarle una invitación?</string>
     <string name="AreYouSure">¿Estás seguro?</string>
     <string name="AddContactQ">¿Añadir contacto?</string>
     <string name="AddToTheGroup">¿Añadir a %1$s al grupo?</string>
@@ -332,7 +332,7 @@
     <string name="DeleteChatQuestion">¿Eliminar este chat?</string>
 
     <!--Intro view-->
-    <string name="Page1Title">Telegram</string>
+    <string name="Page1Title">Free Chat</string>
     <string name="Page2Title">Rápida</string>
     <string name="Page3Title">Gratis</string>
     <string name="Page4Title">Segura</string>
@@ -340,12 +340,12 @@
     <string name="Page6Title">Basada en la nube</string>
     <string name="Page7Title">Privada</string>
     <string name="Page1Message">Bienvenidos a la era de la mensajería rápida y segura.</string>
-    <string name="Page2Message"><![CDATA[<b>Telegram</b>]]> entrega mensajes más rápido que<![CDATA[<br/>]]>cualquier otra aplicación.</string>
-    <string name="Page3Message"><![CDATA[<b>Telegram</b>]]> es gratis para siempre. Sin publicidad.<![CDATA[<br/>]]>Sin cuotas de suscripción.</string>
-    <string name="Page4Message"><![CDATA[<b>Telegram</b>]]> mantiene tus mensajes<![CDATA[<br/>]]>a salvo del ataque de hackers.</string>
-    <string name="Page5Message"><![CDATA[<b>Telegram</b>]]> no tiene límites en el tamaño de tus<![CDATA[<br/>]]>chats y archivos.</string>
-    <string name="Page6Message"><![CDATA[<b>Telegram</b>]]> te permite acceder a tus mensajes<![CDATA[<br/>]]>desde múltiples dispositivos.</string>
-    <string name="Page7Message">Los mensajes de <![CDATA[<b>Telegram</b>]]> están fuertemente<![CDATA[<br/>]]>cifrados y se pueden autodestruir.</string>
+    <string name="Page2Message"><![CDATA[<b>Free Chat</b>]]> entrega mensajes más rápido que<![CDATA[<br/>]]>cualquier otra aplicación.</string>
+    <string name="Page3Message"><![CDATA[<b>Free Chat</b>]]> es gratis para siempre. Sin publicidad.<![CDATA[<br/>]]>Sin cuotas de suscripción.</string>
+    <string name="Page4Message"><![CDATA[<b>Free Chat</b>]]> mantiene tus mensajes<![CDATA[<br/>]]>a salvo del ataque de hackers.</string>
+    <string name="Page5Message"><![CDATA[<b>Free Chat</b>]]> no tiene límites en el tamaño de tus<![CDATA[<br/>]]>chats y archivos.</string>
+    <string name="Page6Message"><![CDATA[<b>Free Chat</b>]]> te permite acceder a tus mensajes<![CDATA[<br/>]]>desde múltiples dispositivos.</string>
+    <string name="Page7Message">Los mensajes de <![CDATA[<b>Free Chat</b>]]> están fuertemente<![CDATA[<br/>]]>cifrados y se pueden autodestruir.</string>
     <string name="StartMessaging">Empieza a conversar</string>
 
     <!--Don't change this! Not for localization!-->

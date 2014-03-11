@@ -51,6 +51,7 @@ import java.util.HashMap;
 import java.util.Locale;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.Semaphore;
+import com.mindprotectionkit.freechat.R;
 
 public class MessagesController implements NotificationCenter.NotificationCenterDelegate {
     public ConcurrentHashMap<Integer, TLRPC.Chat> chats = new ConcurrentHashMap<Integer, TLRPC.Chat>(100, 1.0f, 2);

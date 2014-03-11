@@ -14,7 +14,7 @@ import org.telegram.TL.TLObject;
 import org.telegram.TL.TLRPC;
 import org.telegram.messenger.Emoji;
 import org.telegram.messenger.MessagesController;
-import org.telegram.messenger.R;
+import com.mindprotectionkit.freechat.R;
 import org.telegram.messenger.UserConfig;
 import org.telegram.messenger.Utilities;
 import org.telegram.ui.ApplicationLoader;

@@ -29,7 +29,7 @@ import android.widget.ListView;
 import android.widget.TextView;
 
 import org.telegram.messenger.FileLog;
-import org.telegram.messenger.R;
+import com.mindprotectionkit.freechat.R;
 import org.telegram.messenger.Utilities;
 import org.telegram.ui.Views.BackupImageView;
 import org.telegram.ui.Views.BaseFragment;

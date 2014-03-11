@@ -11,7 +11,7 @@ package org.telegram.ui.Views;
 import android.view.View;
 import android.widget.TextView;
 
-import org.telegram.messenger.R;
+import com.mindprotectionkit.freechat.R;
 import org.telegram.messenger.Utilities;
 
 public class MessageLayout extends FrameLayoutFixed {

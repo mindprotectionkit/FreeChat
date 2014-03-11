@@ -58,6 +58,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.util.zip.GZIPInputStream;
 import java.util.zip.GZIPOutputStream;
+import com.mindprotectionkit.freechat.R;
 
 import javax.crypto.Cipher;
 

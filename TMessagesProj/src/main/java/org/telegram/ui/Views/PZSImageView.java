@@ -25,7 +25,7 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 import org.telegram.messenger.FileLog;
-import org.telegram.messenger.R;
+import com.mindprotectionkit.freechat.R;
 
 public class PZSImageView extends BackupImageView {
 

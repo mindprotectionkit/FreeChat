@@ -31,6 +31,7 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.HashMap;
 import java.util.concurrent.ConcurrentHashMap;
+import com.mindprotectionkit.freechat.R;
 
 public class ContactsController {
     public static ContactsController Instance = new ContactsController();
